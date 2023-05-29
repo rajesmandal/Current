@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CurrentLocation</string>
+    <string name="latitude">Latitude</string>
+    <string name="get_location">Get Location</string>
+    <string name="date">Date</string>
+    <string name="longitude">Longitude</string>
+</resources>
